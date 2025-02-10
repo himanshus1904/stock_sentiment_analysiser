@@ -77,7 +77,7 @@ def analyze_batch(texts):
         texts, 
         return_tensors="pt", 
         padding=True, 
-        truncuration=True, 
+        truncation=True, 
         max_length=256
     )
     
