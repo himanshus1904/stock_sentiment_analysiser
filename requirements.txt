@@ -1,8 +1,8 @@
-streamlit
-praw
-torch
-transformers
-pandas
-scipy
-tqdm
-python-dotenv
+streamlit==1.26.0
+praw==7.7.1
+torch==2.1.0
+transformers==4.34.0
+pandas==2.1.1
+scipy==1.11.3
+tqdm==4.66.1
+python-dotenv==1.0.0
